@@ -1,6 +1,6 @@
 # Exercise 1
 ## Part A
-Snippet: [snippet1A.cpp](https://www.github.com/ArtainR/SchoolProjects/blob/main/18-01-2021/snippet1A.cpp)
+Snippet: [snippet1A.cpp](https://www.github.com/ArtainR/SchoolProjects/blob/main/cpp/18-01-2021/snippet1A.cpp)
 
 ### Input
 `Programming Basics Course`
@@ -9,7 +9,7 @@ Snippet: [snippet1A.cpp](https://www.github.com/ArtainR/SchoolProjects/blob/main
 Only "Programming" is passed to x.
 
 ## Part B
-Snippet: [snippet1B.cpp](https://www.github.com/ArtainR/SchoolProjects/blob/main/18-01-2021/snippet1B.cpp)
+Snippet: [snippet1B.cpp](https://www.github.com/ArtainR/SchoolProjects/blob/main/cpp/18-01-2021/snippet1B.cpp)
 
 ### Input
 User-defined
@@ -30,7 +30,7 @@ Isabella | Wilson | 89
 
 # Exercise 2
 ## Part A
-Snippet: [snippet2A.cpp](https://www.github.com/ArtainR/SchoolProjects/blob/main/18-01-2021/snippet2A.cpp)
+Snippet: [snippet2A.cpp](https://www.github.com/ArtainR/SchoolProjects/blob/main/cpp/18-01-2021/snippet2A.cpp)
 
 ### Input
 User-defined
@@ -48,7 +48,7 @@ Inputted name is masculine
 ```
 
 ## Part B
-Snippet: [snippet2B.cpp](https://www.github.com/ArtainR/SchoolProjects/blob/main/18-01-2021/snippet2B.cpp)
+Snippet: [snippet2B.cpp](https://www.github.com/ArtainR/SchoolProjects/blob/main/cpp/18-01-2021/snippet2B.cpp)
 
 ### Input
 User-defined

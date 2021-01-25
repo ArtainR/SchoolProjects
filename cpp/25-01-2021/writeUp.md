@@ -31,7 +31,6 @@ User-defined
 
 ### Example Output
 ```
-
 Podaj frazę do wyszukania:
 da
 Znaleziono na pozycji 11

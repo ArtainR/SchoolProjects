@@ -55,7 +55,6 @@ User-defined
 
 ### Example Output
 ```
-
 Please input a word:
 Programming
 gnimmargorP

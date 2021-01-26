@@ -5,7 +5,7 @@ Snippet: [snippet1A.cpp](https://www.github.com/ArtainR/SchoolProjects/blob/main
 ### Input
 N/A
 
-### Result
+### Output
 ```
 dubito ergo cogito
 COGITO ERGO SUM
@@ -18,7 +18,7 @@ Snippet: [snippet2A.cpp](https://www.github.com/ArtainR/SchoolProjects/blob/main
 ### Input
 N/A
 
-### Result
+### Output
 ```
 Znaleziono na pozycji 9
 ```

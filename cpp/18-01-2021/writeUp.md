@@ -5,7 +5,7 @@ Snippet: [snippet1A.cpp](https://www.github.com/ArtainR/SchoolProjects/blob/main
 ### Input
 `Programming Basics Course`
 
-### Result
+### Output
 Only "Programming" is passed to x.
 
 ## Part B

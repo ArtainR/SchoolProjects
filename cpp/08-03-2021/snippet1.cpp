@@ -6,18 +6,18 @@ using namespace std;
 
 int main()
 {
-	fstreamplik; //tworzenie uchwytu
-	plik.open("wizytowka.txt"); //otwarcie pliku
-	if(plik.good() == false) //test otwarcia pliku
+	fstreamplik;
+	plik.open("id.txt");
+	if(plik.good() == false)
 	{ 
-		cout << "Plik nie istnieje";
+		cout << "File doesn't exist";
 		exit(0);
 	} 
 	else
 	{
-		cout << "Udalo sie otworzyc plik";
+		cout << "File successfully opened";
 	}
-	plik.close(); //zamkniecie pliku
+	plik.close();
 	
 	return 0;
 }

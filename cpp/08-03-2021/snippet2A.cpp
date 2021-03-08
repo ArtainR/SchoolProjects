@@ -6,22 +6,22 @@ using namespace std;
 
 int main()
 {
-	fstreamplik; //tworzenie uchwytu
-	plik.open("tekst.txt"); //otwarcie pliku
+	fstreamplik;
+	plik.open("text.txt");
 	if(plik.good() == true)
 	{
 		string linia; 
 		int nr_linii = 1;
-		while(getline(plik, linia)) //wczytywanie danych
+		while(getline(plik, linia))
 		{
 			cout << linia << endl;
 			nr_linii++;
 		}
-		plik.close();//zamknięcie pliku
+		plik.close();
 	}
 	else
 	{
-		cout << "Plik nie istnieje" << endl;
+		cout << "File doesn't exist" << endl;
 	}
 	
 	return 0;

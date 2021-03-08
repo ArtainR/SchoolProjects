@@ -15,7 +15,7 @@ int main()
 		while(getline(plik, linia))
 		{
 			cout << linia << endl;
-			getline(plik, linia)
+			getline(plik, linia);
 			nr_linii += 2;
 		}
 		plik.close();

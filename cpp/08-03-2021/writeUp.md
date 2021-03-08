@@ -6,7 +6,7 @@ N/A
 
 ### Output
 ```
-FolderAplikacji\\wizytowka.txt
+FolderAplikacji\\id.txt
 ```
 
 # Exercise 2

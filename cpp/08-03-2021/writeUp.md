@@ -15,7 +15,7 @@ Snippet: [snippet2A.cpp](https://www.github.com/ArtainR/SchoolProjects/blob/main
 
 ### Example Input
 ```
-File1.txt:
+text.txt:
 	This is an example line,
 	This is an example line2,
 	This is an example line3,
@@ -35,7 +35,7 @@ Snippet: [snippet2B.cpp](https://www.github.com/ArtainR/SchoolProjects/blob/main
 
 ### Example Input
 ```
-File1.txt:
+text.txt:
 	This is an example line,
 	This is an example line2,
 	This is an example line3,

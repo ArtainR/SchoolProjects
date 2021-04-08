@@ -1,6 +1,6 @@
+//## THIS IS IN POLISH SO DON'T BOTHER
 //## Kolejność: Tytuł, Autorzy, -Pytanie, Odpowiedzi, poprawna odpowiedź poprzedzona =
 //## Sto pytań dla programisty
-//## Franek Domarus, Kacper Formela, Bartosz Okuń, Maciej Wasielke, Damian Skrzypczak, Michał Boruszewski
 //## Pytanie 1
 -Co należy zastosować w organizacji danych, aby zapytania w bazie danych były wykonywane szybciej?
 Reguły

@@ -1,0 +1,2 @@
+Aby skompilować program, należy mieć zainstalowaną statycznie bibliotekę SFML (https://github.com/SFML/SFML/releases/tag/2.5.1), 
+a także kompilator https://sourceforge.net/projects/tdm-gcc/files/TDM-GCC%20Installer/tdm-gcc-5.1.0-3.exe/download

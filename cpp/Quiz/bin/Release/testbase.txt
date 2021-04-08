@@ -1,0 +1,602 @@
+//## Kolejność: Tytuł, Autorzy, -Pytanie, Odpowiedzi, poprawna odpowiedź poprzedzona =
+//## Sto pytań dla programisty
+//## Franek Domarus, Kacper Formela, Bartosz Okuń, Maciej Wasielke, Damian Skrzypczak, Michał Boruszewski
+//## Pytanie 1
+-Co należy zastosować w organizacji danych, aby zapytania w bazie danych były wykonywane szybciej?
+Reguły
+Wartości domyślne
+=Indeksy
+Klucze podstawowe
+//## Pytanie 2
+-Jak nazywa się podzbiór strukturalnego języka zapytań, związany z formułowaniem zapytań do bazy danych za pomocą polecenia SELECT?
+SQL DDL (ang. Data Definition Language)
+=SQL DQL (ang. Data Query Language)
+SQL DML (ang. Data Manipulation Language)
+SQL DCL (ang. Data Control Language)
+//## Pytanie 3
+-W programie Microsoft Access formą zabezpieczeń dostępu do danych związaną z tabelą i kwerendą jest.
+=przypisanie uprawnień
+określanie przestrzeni tabel
+stosowanie makr
+wprowadzenie limitów przestrzeni dyskowej
+//## Pytanie 4
+-Jakiego rodzaju mechanizm kontroli bezpieczeństwa wykonywania aplikacji zawiera środowisko uruchomieniowe platformy .NETFramework?
+Mechanizm wykonywania aplikacji dla bibliotek klas
+Mechanizm wykonywania aplikacji realizowany przez funkcję Windows API (Application Programming Interface)
+Mechanizm wykonywania aplikacji realizowany przez frameworki aplikacji internetowych (ASP.NET)
+=Mechanizm wykonywania aplikacji oparty na uprawnieniach kodu (CAS - Code Access Security) i na rolach (RBS - Role-Based Security)
+//## Pytanie 5
+-Jak nazywa się element bazy danych, za pomocą którego można jedynie odczytywać dane z bazy, prezentując je w postaci tekstu lub wykresu?
+Tabela
+=Raport
+Zapytanie
+Formularz
+//## Pytanie 6
+-Jakiego znacznika należy użyć, aby przejść do kolejnej linii tekstu, nie tworząc akapitu na stronie internetowej?
+</b>
+</br>
+=<br>
+<p>
+//## Pytanie 7
+-Z jakimi mechanizmami nadawania zabezpieczeń, dającymi możliwości wykonywania operacji na bazie danych, związane są zagadnienia zarządzania kontami, użytkownikami i uprawnieniami?
+=Z przywilejami systemowymi
+Z atrybutami
+Z regułami
+Z przywilejami obiektowymi
+//## Pytanie 8
+-Sposób programowania, w którym ciąg poleceń (sekwencji instrukcji) przekazywanych komputerowi jest postrzegany jako program, nosi nazwę programowania
+funkcyjnego
+logicznego
+=imperatywnego
+stanowego
+//## Pytanie 9
+-Do graficznego tworzenia stron internetowych należy wykorzystać
+=program typu WYSIWYG
+przeglądarkę internetową
+edytor CSS
+program MS Office Picture Manager
+//## Pytanie 10
+-Typ zmiennej w języku JavaScript
+musi być zadeklarowany na początku skryptu
+nie występuje
+jest tylko jeden
+=następuje poprzez przypisanie wartości
+//## Pytanie 11
+-Model opisu przestrzeni barw o parametrach odcień, nasycenie i jasność, to
+CMY
+=HSV
+RGB
+HDMI
+//## Pytanie 12
+-Kaskadowe arkusze stylów tworzy się w celu
+nadpisywania wartości znaczników już ustawionych na stronie
+połączenia struktury dokumentu strony z właściwą formą jego prezentacji
+=ułatwienia formatowania strony
+ułatwienia deformacji pliku za pomocą komponentu CSS
+//## Pytanie 13
+-Jakiego formatu należy użyć do zapisu obrazu z kompresją stratną?
+=JPEG
+PNG
+PCX
+JQUERY
+//## Pytanie 14
+-Co robi polecenie <font color="#000000">TEKST</font> w oknie przeglądarki internetowej?
+Wyświetla 000000
+=Wyświetla czarny napis TEKST
+nadaje wartości TEKST parametr 0
+konwertuje zmienną tekst na integer
+//## Pytanie 15
+-W procesie walidacji stron internetowych nie bada sie
+działania linków
+=źródła pochodzenia narzędzi edytorskich
+błędów składni kodu
+zgodności z przeglądarkami
+//## Pytanie 16
+-Który język skryptowy ogólnego przeznaczenia należy wykorzystać do tworzenia aplikacji WWW, zagnieżdżanych w języku HTML i uruchamianych po stronie serwera?
+Perl
+C++
+=PHP
+JavaScript
+//## Pytanie 17
+-W podanej regule CSS hl {color : blue} h1 oznacza
+deklarację
+wartość
+klasę
+=selektor
+//## Pytanie 18
+-Jaki program komputerowy przekształca kod źródłowy, napisany w konkretnym języku programowania, na język komputera?
+Środowisko programistyczne
+Debugger
+=Kompilator
+Edytor kodu źródłowego
+//## Pytanie 19
+-Jak nazywa się program, który wykonuje instrukcje zawarte w kodzie źródłowym tworzonego programu bez uprzedniego generowania programu wynikowego?
+Konwerter kodu
+=Interpreter
+Konwerter języka
+Kompilator
+//## Pytanie 20
+-Zmienne typu int odnoszą się do liczb
+naturalnych
+=całkowitych
+w notacji zmiennoprzecinkowej
+w notacji stałoprzecinkowej
+//## Pytanie 21
+-Jak nazywa się technika umożliwiająca otwarcie połączenie klienta z serwerem i komunikację bez przeładowywania całej strony WWW w sposób asynchroniczny
+PHP
+XML
+ORACLE
+=AJAX
+//## Pytanie 22
+-Wskaż model barw, który stosuje się do wyświetlania kolorów na ekranie monitora komputerowego
+HLS
+CMY
+CMYK
+=RGB
+//## Pytanie 23
+-Jakie są nazwy typowych poleceń języka zapytań SQL, związane z wykonywaniem operacji na danych SQL DML (np.: umieszczanie danych w bazie, kasowanie, dokonywanie zmian w danych)?
+ALTER, CREATE, DROP
+=DELETE, INSERT, UPDATE
+SELECT, SELECT INTO
+DENY, GRANT, REVOKE
+//## Pytanie 24
+-Edytor spełniający założenia WYSIWYG musi umożliwiać
+obróbkę plików dźwiękowych przed umieszczeniem ich na stronie internetowej
+publikację strony na serwerze poprzez wbudowanego klienta FTP
+=uzyskanie zbliżonego wyniku tworzonej strony do jej obrazu w przeglądarce internetowej
+tworzenie podstawowej grafiki wektorowej
+//## Pytanie 25
+-Jak będzie posortowana lista? Select * FROM uczniowie WHERE srednia > 5 ORDER BY klasa DESC;
+Rosnąco według parametru średnia
+Rosnąco według parametru klasa
+=Malejąco według parametru klasa
+Malejąco według parametru średnia
+//## Pytanie 26
+-W skrypcie PHP należy utworzyć cookie o nazwie "owoce", które przyjmie wartość "jabłko". Cookie ma być dostępne przez jedną godzinę od jego utworzenia. W tym celu należy w skrypcie PHP użyć funkcji
+cookie("owoce", "jabłko", 3600);
+setcookie("jabłko", "owoce", time()+3600);
+=setcookie("owoce", "jabłko", time()+3600);
+cookie("jabłko", "owoce", 3600);
+//## Pytanie 27
+-W palecie kolorów RGB kolor żółty jest połączeniem dwóch kolorów: zielonego i czerwonego. Który z kodów szesnastkowych oznacza kolor żółty?
+#FF00FF
+=#FFFF00
+#00FFFF
+#F0F0F0
+//## Pytanie 28
+-Poprzez deklarację var x="true"; w języku JaviaScript tworzy się zmienną typu
+=string (ciąg znaków)
+liczbowego
+logicznego
+nieokreślonego (undefined)
+//## Pytanie 29
+-Element zadeklarowany w języku C++ double x*; to
+zmienna rzeczywista
+zmienna całkowita
+parametr formalny typu rzeczywistego
+=wskaźnik
+//## Pytanie 30
+-Które polecenie wydane z konsoli systemowej dokona przywrócenia bazy danych?
+=mysql -u root -p baza < kopia.sql
+mysqldump -u root -p baza < kopia.sql
+mysql -u root -p baza > kopia.sql
+mysqldump -u root -p baza > kopia.sql
+//## Pytanie 31
+-Które ze stwierdzeń prawidłowo charakteryzuje zdefiniowaną tabelę? CREATE TABLE dane (kolumna INTEGER(3));
+Kolumny tabeli dane nazywają się: kolumna 1, kolumna2, kolumna3
+Tabela o nazwie dane posiada trzy kolumny liczb całkowitych
+Tabela posiada jedną kolumnę zawierającą trzyelementowe tablice
+=Tabela o nazwie dane posiada jedną kolumnę liczb całkowitych
+//## Pytanie 32
+-Proces, w którym wykrywa się i usuwa błędy w kodzie źródłowym programów, to
+normalizacja
+standaryzacja
+destruowanie
+=debugowanie
+//## Pytanie 33
+-Którego ze słów kluczowych języka SQL należy użyć, aby wyeliminować duplikaty?
+DELETE
+DESTROY
+=DISTINCT
+DESTRUCT
+//## Pytanie 34
+-W znaczniku <meta ... > (w części <meta ... >) strony WWW nie umieszcza się informacji dotyczących
+automatycznego odświeżania
+autora
+kodowania
+=typu dokumentu
+//## Pytanie 35
+-Które oprogramowanie nie jest systemem zarządzania treścią (CMS)?
+Joomla
+=Apache
+Parsec
+WordPress
+//## Pytanie 36
+-Wskaż słowo kluczowe w języku C++ dodawane przed wbudowanym typem danych, które przesuwa zakres na liczby wyłącznie nieujemne.
+const
+short
+cout
+=unsigned
+//## Pytanie 37
+-Która z wymienionych funkcji sortowania, wykorzystywana w języku PHP, sortuje tablicę asocjacyjną według indeksów?
+rsort()
+sort()
+asort()
+=ksort()
+//## Pytanie 38
+-Platforma wspierająca programowanie w technologii .NET to
+db2
+eclipse
+WWW
+=framework
+//## Pytanie 39
+-Który z formatów nie pozwala na zapis plików animowanych?
+SWF
+=ACE
+SVG
+GIF
+//## Pytanie 40
+-Polecenie w języku SQL GRANT ALL PRMLEGES ON klienci TO pracownik
+odbiera wszystkie uprawnienia pracownikowi do tabeli klienci
+skopiuje uprawnienia z grupy klienci na użytkownika pracownik
+nadaje uprawnienia grupie klienci do tabeli pracownik
+=nadaje wszystkie uprawnienia do tabeli klienci użytkownikowi pracownik
+//## Pytanie 41
+-Które polecenie wydane z konsoli systemu operacyjnego, zawierające w swojej składni opcję --repair, umożliwia naprawę bazy danych?
+truncate
+mysqldump
+create
+=mysqlcheck
+//## Pytanie 42
+-Jaką wartość zwróci funkcja zoo zdefiniowana w języku C++, wywołana z aktualnym parametrem 3.55 int zoo(float x){return (x+0.5);}
+3
+2
+=4
+3.5
+//## Pytanie 43
+-W językach programowania tylko zmienna jednego typu wbudowanego może przyjmować wyłącznie dwie wartości. Jest to typ
+łańcuchowy
+znakowy
+tablicowy
+=logiczny
+//## Pytanie 44
+-Które ze stwierdzeń dotyczących języków programowania nie jest prawdziwe?
+PHP jest językiem do tworzenia stron w czasie rzeczywistym
+=SQL jest językiem programowania strukturalnego
+JavaScript jest językiem skryptowym
+HTML jest językiem strukturalnym
+//## Pytanie 45
+-Który z formatów zapewnia największa redukcję rozmiaru pliku dźwiękowego?
+PCM
+CD-Audio
+=MP3
+WAV
+//## Pytanie 46
+-Integralność referencyjna w modelu relacyjnych baz danych oznacza, że
+każdemu kluczowi głównemu odpowiada dokładnie jeden klucz obcy w tabeli lub tabelach powiązanych
+=wartość klucza obcego w danej tabeli musi być albo równa wartości klucza głównego w tabeli z nią powiązanej albo równa wartości NULL
+wartość klucza głównego oraz klucza obcego nie jest pusta
+klucz główny lub klucz obcy nie zawierają wartości NULL
+//## Pytanie 47
+-W kodzie PHP znak "//” oznacza
+=początek komentarza jednoliniowego
+operator alternatywy
+początek skryptu
+operator dzielenia całkowitego
+//## Pytanie 48
+-Operator arytmetyczny modulo w języku SQL to
+&
+||
+=%
+/
+//## Pytanie 49
+-W języku PHP zmienna $_GET jest zmienną
+=predefiniowaną, używaną do przekazywania danych do skryptów PHP poprzez adres strony
+predefiniowaną, używana do gromadzenia wartości formularza po nagłówkach zlecenia HTTP (danych z formularza nie można zobaczyć w adresie)
+zdefiniowaną przez twórcę strony, służącą do przekazywania danych z formularza przez adres strony
+Zwykłą, zdefiniowaną przez twórcę strony
+//## Pytanie 50
+-Kod: SELECT imie, pesel, wiek FROM dane WHERE wiek IN (18,30) spowoduje wybranie
+imion, nazwisk i numerów PESEL osób w wieku poniżej 18 lat
+imion, numerów PESEL i wieku osób z przedziału od 18 do 30 lat
+imion, numerów PESEL i wieku osób posiadających powyżej 30 lat
+=imion, numerów PESEL i wieku osób w wieku równym 18 lub 30 lat
+//## Pytanie 51
+-CMYK to zestaw czterech podstawowych kolorów farb drukarskich:
+turkusowego, purpurowego, białego, czarnego
+czerwonego, purpurowego, żółtego, szarego
+=turkusowego, purpurowego, żółtego, czarnego
+turkusowego, błękitnego, białego, różowego
+//## Pytanie 52
+-Relacja w bazach danych jest
+algebraicznym połączeniem tabel
+=logicznym połączeniem tabel
+kluczem głównym w relacji tabel
+połączeniem dwóch pól jednej tabeli
+//## Pytanie 53
+-Które polecenie w CSS służy do załączenia zewnętrznego arkusza stylów?
+=import
+require
+open
+include
+//## Pytanie 54
+-W algebrze relacji operacja selekcji polega na
+wyeliminowaniu pustych wierszy
+wyeliminowaniu krotek z powtarzającymi się polami
+wybraniu krotek niezawierających wartości NULL
+=wybraniu krotek spełniających określone warunki
+//## Pytanie 55
+-Kodowanie w standardzie ISO-8859-2 stosowane jest w celu poprawnego wyświetlania
+symboli matematycznych
+znaków zarezerwowanych dla języka opisu strony
+=polskich liter, takich jak: ś, ć, ń, ó, ą
+znaków specjalnych dla języka kodu strony
+//## Pytanie 56
+-Selektor CSS a:link {color:red} zawarty w kaskadowych arkuszach stylów definiuje
+klasę
+identyfikator
+=pseudoklase
+pseudoelement
+//## Pytanie 57
+-Typ stało-znakowy w języku SQL to
+time
+=char
+text
+bool
+//## Pytanie 58
+-Aby ustawić tło na stronie www należy użyć polecenia
+<bgcolor=""></bgcolor>
+=<body bgcolor=""></body>
+<body background=""></body>
+<background=""></background>
+//## Pytanie 59
+-Formularze do obsługi baz danych tworzy się w celu
+wprowadzenia powiązań w relacyjnych bazach danych
+raportowania danych
+wyszukiwania wierszy spełniających dane kryteria
+=wygodniejszego wprowadzania, edytowania i usuwania danych
+//## Pytanie 60
+-Parametr face znacznika <font> służy do określenia
+barwy czcionki
+efektów czcionki
+=nazwy czcionki
+wielkości czcionki
+//## Pytanie 61
+-Odwołanie funkcji do samej siebie to
+iteracja
+hermetyzacja
+=rekurencja
+dziedziczenie
+//## Pytanie 62
+-Saturacja koloru nazywana jest inaczej
+jasnością koloru
+przezroczystością koloru
+=nasyceniem koloru
+dopełnieniem koloru
+//## Pytanie 63
+-Obiekt typu array w języku Javascript służy do przechowywania
+wielu wartości wyłącznie tekstowych
+wielu wartości lub funkcji
+wielu wartości wyłącznie liczbowych
+=wielu wartości dowolnego typu
+//## Pytanie 64
+-Kolor 255 12 12 w modelu RGB na stronie www powinien być zapisany w postaci
+#EE0C0C
+=#FF0C0C
+#AB1A1D
+#2551212
+//## Pytanie 65
+-Deklaracja w języku JavaScript: var x=true; powoduje, że zmienna x jest typu
+=logicznego
+liczbowego
+wyliczeniowego
+ciąg znaków
+//## Pytanie 66
+-Cechą formatu PNG jest
+=bezstratna kompresja
+obsługa animacji
+reprezentacja grafiki wektorowej
+brak obsługi kanału alfa
+//## Pytanie 67
+-Zamieszczony w ramce fragment skryptu w języku JavaScript t="Ala ma kota."; s=t.length;
+przypisze zmiennej s zmienną r
+wyświetli długość napisu ze zmiennej t
+=przypisze zmiennej s długość napisu ze zmiennej t
+przypisze zmiennej s fragment napisu ze zmiennej t, o określonej przez zmienną length długości
+//## Pytanie 68
+-W języku PHP w instrukcji switch musi występować
+instrukcja break po każdej instrukcji case
+instrukcja default
+przynajmniej dwie instrukcje case
+=konstrukcja switch(wyrażenie)
+//## Pytanie 69
+-Jak nazywa się edytor wspomagający tworzenie stron internetowych, którego sposób działania można w polskim tłumaczeniu określić jako "otrzymujesz to, co widzisz"?
+VISUAL EDITOR
+IDE
+WEB STUDIO
+=WYSIWYG
+//## Pytanie 70
+-Wskaż poprawną kolejność etapów projektowania relacyjnej bazy danych
+Określenie kluczy podstawowych tabel, Określenie zbioru danych, Selekcja, Określenie relacji
+Określenie relacji, Określenie kluczy podstawowych tabel, Selekcja, Określenie zbioru danych
+=Określenie zbioru danych, Selekcja, Określenie kluczy podstawowych tabel, Określenie relacji
+Selekcja, Określenie relacji, Określenie kluczy podstawowych tabel, Określenie zbioru danych
+//## Pytanie 71
+-Ukrywanie pewnych pól lub metod obiektów danej klasy tak, aby były one dostępne tylko metodom wewnętrznym tej klasy lub funkcjom zaprzyjaźnionym, to
+konkatenacja
+polimorfizm
+=hermetyzacja
+dziedziczenie
+//## Pytanie 72
+-Konstruktor w języku PHP jest metodą o nazwie
+__new
+__open
+__create
+=__construct
+//## Pytanie 73
+-Polecenie w języku SQL ALTER TABLE USA ... ma za zadanie
+nadpisanie starej tabeli USA
+usunięcie tabeli USA
+=modyfikację tabeli USA
+utworzenie nowej tabeli USA
+//## Pytanie 74
+-Aby podczas tworzenia tabeli utworzyć klucz obcy na wielu kolumnach, należy użyć polecenia
+CONSTRAINT (nazwisko, imie) FOREIGN REFERENCES KEY osoby (nazwisko, imie)
+=CONSTRAINT fk_soba_uczen FOREIGN KEY(nazwisko, imie) REFERENCES osoby (nazwisko, imie)
+CONSTRAINT (nazwisko, imie) FOREIGN KEY REFERENCES osoby (nazwisko, imie)
+CONSTRAINT fk_osoba_uczen FOREIGN KEY ON(nazwisko, imie) REFERENCES osoby (nazwisko, imie)
+//## Pytanie 75
+-Aby policzyć wszystkie wiersze tabeli Koty należy użyć polecenia
+=SELECT COUNT(*) FROM Koty
+SELECT ROWNUM() FROM Koty
+SELECT COUNT(ROWNUM) FROM Koty
+SELECT COUNT(Koty) AS ROWNUM
+//## Pytanie 76
+-Organizacja zajmująca się ustalaniem standardu dla języka HTML nosi nazwę
+=W3C
+ISO
+WYSIWYG
+NASCAR
+//## Pytanie 77
+-Domyślna nazwa pliku konfiguracyjnego serwera Apache to
+.configuration
+htaccess.cnf
+=.htaccess
+configuration.php
+//## Pytanie 78
+-Który z wymienionych systemów nie jest systemem CMS?
+WordPress
+Joomla!
+=Adobe Flash
+Dupal
+//## Pytanie 79
+-Za pomocą którego protokołu należy wysłać pliki na serwer WWW?
+DNS
+POP3
+=FTP
+DHCP
+//## Pytanie 80
+-Które z poleceń naprawi uszkodzoną tabelę w języku SQL?
+ANALYZE TABLE tbl_name
+OPTIMIZE TABLE tbl_name
+=REPAIR TABLE tblname
+REGENERATE TABLE tbl_name
+//## Pytanie 81
+-W języku HTML atrybut alt znacznika img jest wykorzystywany w celu zdefiniowania
+atrybutów grafiki, takich jak rozmiar, obramowanie, wyrównanie
+=tekstu, który będzie wyświetlony, jeśli nie może być wyświetlona grafika
+podpisu, który zostanie wyświetlony pod grafiką
+ścieżki i nazwy pliku źródłowego grafiki
+//## Pytanie 82
+-Kwerenda pozwalająca na wprowadzenie zmian w wielu rekordach lub przeniesienie wielu rekordów przy użyciu pojedynczej operacji, nosi nazwę kwerendy
+parametrycznej
+=funkcjonalnej
+wybierającej
+krzyżowej
+//## Pytanie 83
+-Która ze zdefiniowanych funkcji w języku PHP jako wynik zwraca połowę kwadratu wartości przekazanej?
+function licz($a) { return $a/2; }
+function licz($a) { echo $a*$a/2; }
+=function licz($a) { return $a*$a/2; }
+function licz($a) { echo $a/2; }
+//## Pytanie 84
+-Które z poleceń umożliwia dodanie kolumny zadanie kompletne do tabeli zadania?
+INSERT INTO zadania VALUES zadania kompletne
+CREATEINDEX zadania ADD COLUMN zadanie_kompletne int
+=ALTER TABLE zadania ADD COLUMN zadaniekompletne int
+ADD COLUMN zadanie kompletne WITH zadania
+//## Pytanie 85
+-Aby ustawić czcionkę Verdana w kodzie CSS, należy wykorzystać właściwość
+font-weight: Verdana;
+font-style: Verdana;
+font-name: Verdana;
+=font-family: Verdana;
+//## Pytanie 86
+-Aby zobaczyć wyniki działania skryptu napisanego w języku PHP, będącego elementem strony WWW, musi być on
+skompilowany po stronie klienta
+skompilowany po stronie serwera
+zinterpretowany po stronie klienta
+=zinterpretowany po stronie serwera
+//## Pytanie 87
+-Który z wymienionych formatów plików graficznych obsługuje przezroczystość?
+NEF
+BMP
+=PNG
+JPG
+//## Pytanie 88
+-W języku skryptowym JavaScript zmienne mogą być deklarowane
+zawsze z poprzedzającym nazwę znakiem $
+tylko na początku skryptu
+tylko jeśli podamy typ zmiennej i jej nazwę
+=w momencie pierwszego użycia zmiennej
+//## Pytanie 89
+-Która z instrukcji umożliwia wysłanie tekstu do przeglądarki?
+exit
+break
+type
+=echo
+//## Pytanie 90
+-W strukturalnych językach programowania w celu przechowania informacji o 50 uczniach (ich imionach, nazwiskach, średniej ocen) należy użyć
+tablicy 50 elementów o składowych łańcuchowych
+=tablicy 50 elementów o składowych strukturalnych
+struktury 50 elementów o składowych typu tablicowego
+klasy 50 elementów typu tablicowego
+//## Pytanie 91
+-W celu określenia wysokości obrazka wyświetlonego na stronie WWW należy wykorzystać właściwość CSS o nazwie
+=height
+margin
+width
+padding
+//## Pytanie 92
+-W celu zapewnienia spójności danych w bazie programu Microsoft Access należy skorzystać
+z kwerendy aktualizującej
+=z więzów integralności
+z defragmentacji bazy
+z archiwizacji baz
+//## Pytanie 93
+-Jeśli rozmiar pliku graficznego jest zbyt duży do publikacji w Internecie, należy
+=zmniejszyć jego rozdzielczość
+zwiększyć jego głębię kolorów
+dodać kanał alfa
+zapisać w formacie BMP
+//## Pytanie 94
+-Projektowanie logicznego układu witryny polega na
+=rozmieszczeniu elementów w konkretnych miejscach witryny
+opracowaniu zestawu grafik dla witryny
+zdefiniowaniu treści witryny
+ustaleniu adresów URL dla podstron witryny
+//## Pytanie 95
+-Zdarzenie JavaScript, będące reakcją na pojedynczo kliknięty dowolny element strony, nosi nazwę
+onLoad
+onDblClick
+=onClick
+onKeyDown
+//## Pytanie 96
+-Certyfikat SSL jest stosowany do
+deszyfracji transmitowanych danych
+zapisania danych o sesjach tworzonych w witrynie
+blokowania szkodliwego oprogramowania w witrynie
+=zidentyfikowania właściciela domeny
+//## Pytanie 97
+-W skład typowego Framework'a wchodzą
+domena i obsługa błędów
+obsługa formularzy i wbudowany serwer
+mechanizm uruchamiania i przetwarzania akcji, oraz certyfikat http
+=zarządzanie komunikacją z bazą danych, mechanizm uruchamiania i przetwarzania akcji
+//## Pytanie 98
+-W załączonym fragmencie kodu CSS kolor jest zapisany w postaci color: #008000;
+HSL
+dziesiętnej
+CMYK
+szesnastkowej
+//## Pytanie 99
+-W języku SQL przywilej SELECT polecenia GRANT pozwala użytkownikowi baz danych na
+=odczyt danych z tabeli
+usunięcie danych z tabeli
+tworzenie tabeli
+modyfikowanie danych w tabeli
+//## Pytanie 100
+-Baza danych zawiera tabelę o nazwie pracownicy o polach: nazwisko, imie, pensja, wiek. Jak wygląda składnia polecenia wyznaczającego średnią pensję pracowników?
+select VAR (pracownicy) into pensja
+select VAR (pensja) from nazwisko
+=select AVG (pensja) from pracownicy

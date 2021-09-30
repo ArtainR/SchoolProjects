@@ -1,0 +1,36 @@
+body {
+	color: #eee;
+	background-color: #222;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+input {
+	color: #eee;
+	background-color: #444;
+	background-clip: content-box;
+	border: none;
+}
+
+input[type=button] {
+	padding: 3px;
+}
+
+input:focus:not([type=button]) {
+	outline: none;
+	border-bottom: 1px solid #bbb;
+	padding: 2px;
+}
+
+#bar {
+	display: inline;
+	font-size: 1.25em;
+	letter-spacing: -3px;
+	width: fit-content;
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+}
+
+#barPercent {
+	margin-left: 1em;
+}
